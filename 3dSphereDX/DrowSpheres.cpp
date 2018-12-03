@@ -1,6 +1,5 @@
 #include "stdafx.h"
 #include "DrowSpheres.h"
-#include "Sphere.h"
 #include "CameraControll.h"
 
 using namespace std;
